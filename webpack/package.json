@@ -1,0 +1,14 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "实验webpck",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "992091667",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack-cli": "^3.3.10"
+  }
+}
